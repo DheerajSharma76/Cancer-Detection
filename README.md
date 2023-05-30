@@ -1,9 +1,9 @@
 # Cancer-Detection
 Skin Cancer Detection
-This repository contains the code for a skin cancer detection project using Streamlit, EfficientNet-B4, and ResNet-101. The goal of this project is to develop a machine learning model that can accurately classify images of skin lesions as either benign or malignant, aiding in the early detection and diagnosis of skin cancer.
+This repository contains the code for a skin cancer detection project using Streamlit, EfficientNet-B4, and ResNet-101. The goal of this project is to develop a machine learning model that can accurately classify images of skin lesions, aiding in the early detection and diagnosis of skin cancer.
 
 Dataset
-The model was trained on a large dataset of skin lesion images collected from various sources, including medical databases and research institutions. The dataset comprises both benign and malignant cases, providing a diverse range of examples for the model to learn from.
+The model was trained on a large dataset of skin lesion images collected from various sources, including medical databases and research institutions. The dataset, providing a diverse range of examples for the model to learn from.
 
 Model Architecture
 Two state-of-the-art convolutional neural networks (CNNs) were employed for this project:
